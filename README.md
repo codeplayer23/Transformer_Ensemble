@@ -18,6 +18,10 @@ The ensemble approach leverages the strengths of both models to achieve better g
 A **licensed/private dataset** containing text samples annotated with emotion labels was used.  
 The dataset includes multiple emotion categories, providing a diverse and realistic benchmark for model evaluation.
 
+# Dataset Access
+The dataset used in this project is licensed and cannot be distributed publicly.  
+Please request access from the official provider or substitute with your own dataset in the same format.
+
 ---
 
 ## Technologies & Libraries
